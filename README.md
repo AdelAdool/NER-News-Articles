@@ -115,7 +115,15 @@ Here are some sample visualizations:
 
 - For large datasets, consider setting `MAX_DOCS_PER_SPLIT` to limit runtime.  
 - The rule-based NER uses a small static gazetteer; you can extend it with more entities.  
-- HTML visualizations are generated for the first `SAMPLES_TO_VISUALIZE` documents per split.  
+- HTML visualizations are generated for the first `SAMPLES_TO_VISUALIZE` documents per split.
+
+---
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
 
